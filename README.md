@@ -638,7 +638,7 @@ settings, open the UCI options editor and click `RESET` and `OK`.
   * For Windows and Linux, install the Engine server software from the
     [DroidFish](http://hem.bredband.net/petero2b/droidfish/index.html) page.
 
-  * Alternatively for Linux, `mini-inetd` from the `tcputils` package can be
+  * Alternatively for Linux, `mini-inetd` from the `tcputils` package or `netcat` from the `netcat-traditional` package can be
     used.
 
 * Select *Manage Chess Engines* in the *Left drawer menu*, create a new network
